@@ -4,3 +4,9 @@ obj
 
 # mstest test results
 TestResults
+
+# sln
+_ReSharper.NDllInjector
+*.suo
+Debug
+bootstrap/*.bin
